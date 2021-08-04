@@ -1,0 +1,37 @@
+.navbar-dark {
+    background-color: #c6c8d6;
+}
+.jumbotron {
+    padding-top: 100px;
+}
+.footer {
+    background-color: #c6c8d6;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.portfolio {
+    background-color: #e9ecef;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.marg {
+    margin-bottom: 2rem;
+}
+a, a:hover {
+    color: black;
+    text-transform: none;
+}
+
+.resume {
+    margin-bottom: 2rem;
+}
+
+.img {
+    padding: 5px;
+    width: 120px;
+    height: 120px;
+}
+
+button {
+    margin-top: 20px;
+}
